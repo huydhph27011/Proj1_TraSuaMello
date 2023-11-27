@@ -13,7 +13,7 @@ using TraSuaMello._3.PL;
 
 namespace QuanLyTraSuaGocha
 {
-
+    //Thêm một dòng comment
     public partial class FormTongQuan : Form
     {
         //Class chức năng add Đơn
