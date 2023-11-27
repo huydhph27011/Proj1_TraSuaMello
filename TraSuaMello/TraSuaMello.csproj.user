@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="3.PL\FormChamCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormDangKyMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormGoiMon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormHoaDonChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormPhanCong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyCoupon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyMembership.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyTaiChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyThongTinCaNhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormQuanLyThongTinKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormTongQuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="3.PL\FormTuyenDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
